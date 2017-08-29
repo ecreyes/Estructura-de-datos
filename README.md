@@ -6,3 +6,4 @@ Este repositorio contiene algoritmos y estructuras de datos.
 * Pila en C++
 * Cola en C++
 * Lista enlazada simple en C++
+* Árbol de búsqueda binaria en C++
